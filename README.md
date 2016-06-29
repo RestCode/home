@@ -4,7 +4,7 @@
 - Server middelware
   - WebApiProxy metadata provider
   - JavaScript provider
-- Client genertors
+- Client generators
   - Grunt task
   - Gulp task
   - Powershell cmdlet
